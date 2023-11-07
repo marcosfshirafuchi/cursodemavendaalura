@@ -90,7 +90,7 @@ Aulas
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto]() ou [baixá-lo]().
+Você pode [acessar o código fonte do projeto](https://github.com/marcosfshirafuchi/cursodemavendaalura/tree/main/loja) ou [baixá-lo](https://github.com/marcosfshirafuchi/cursodemavendaalura/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
